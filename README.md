@@ -30,7 +30,7 @@
 - Cleint : https://saladbanklink.netlify.app/
 - Server : https://saladbank.link/
 <br><br>
-<img src="https://velog.velcdn.com/images/wijoonwu/post/11440b84-6663-4f14-bc4f-452441f32ca0/image.png">
+<img src="https://velog.velcdn.com/images/wijoonwu/post/11440b84-6663-4f14-bc4f-452441f32ca0/image.png" width="400" heigth="600">
 
 ### 📜 요구사항 명세서
 - https://mango-tower-9f1.notion.site/7670e6d5a49d489f806ea2fb271d4fcb
